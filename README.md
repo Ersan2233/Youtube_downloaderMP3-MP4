@@ -2,6 +2,7 @@
 
 A simple YouTube downloader tool built with Python and PyQt5.  
 It allows you to paste a YouTube link and download the video in MP3 or MP4 format, with your preferred resolution and custom title.
+Feel free to update and optimize the code and send them to me, if you have any questions don't hesitate to contact me.
 
 ---
 
